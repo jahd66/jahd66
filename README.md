@@ -1,34 +1,48 @@
-### Hi there, i´m Jesús 👋
+<div id="header" align="center">
+    <h1 align="center">Hi there, i'm Jesús 👋</h1>
+    <h3 align="center">Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
+</div>
 
-Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
+---
 
-## 🚀My projects 
+<div align="center">
+    ## 📫 How to reach me 
+    - Email: jahdev66@gmail.com
+    - Website: ...soon
+    - linkedIn: linkedin.com/in/jesus-andres-hernandez-dussan-2ba708257
+</div>
 
-Here are some of my best projects:
--
--
--
--
--
+---
 
-## ⚙ My stack technologies
-|Programming languages|Frontend|Backend|
+<div align="center">
+    ## 🚀My projects 
 
-## 📈My statistics
+    Here are some of my best projects:
+    - ...soon
+    - ...soon
+    - ...soon
+    - ...soon
+    - ...soon
+</div>
 
-## 📫 How to reach me
+---
 
-<!--
-**jahd66/jahd66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h3>⚙ My stack technologies</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+     </div>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    ## 📈My statistics
+    [![GitHub Streak](https://streak-stats.demolab.com?user=jahd66&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
