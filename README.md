@@ -10,7 +10,7 @@
 ## 📫 How to reach me 
 - Email: jahdev66@gmail.com
 - Website: ...soon
-- linkedIn: https://www.linkedin.com/in/jesus-andres-hernandez-dussan-2ba708257/
+- LinkedIn: https://www.linkedin.com/in/jesus-andres-hernandez-dussan-2ba708257/
 ---
 
  ## 🚀My projects 
