@@ -2,6 +2,22 @@
 
 Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React, Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
 
+## 🚀My projects 
+
+Here are some of my best projects:
+-
+-
+-
+-
+-
+
+## ⚙ My stack technologies
+|Programming languages|Frontend|Backend|
+
+## 📈My statistics
+
+## 📫 How to reach me
+
 <!--
 **jahd66/jahd66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
