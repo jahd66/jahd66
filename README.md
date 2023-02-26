@@ -2,7 +2,7 @@
     <h1 align="center">Hi there, i'm Jesús 👋</h1>
 </div>
 <div align="justify"
-    <h3>Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
+    Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.
 </div>
 
 ---
