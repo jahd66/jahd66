@@ -40,9 +40,10 @@
 
 ---
 
-<div align="center">
-    ## 📈My statistics
-    [![GitHub Streak](https://streak-stats.demolab.com?user=jahd66&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+### 📊 My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahd66&theme=tokyonight)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
