@@ -15,7 +15,7 @@
 ---
 
 <div>
-    ## 🚀My projects 
+    ### 🚀My projects 
 
     Here are some of my best projects:
     - ...soon
@@ -40,10 +40,10 @@
 
 ---
 
-<h3 align="center"> 📊 My Stats </h3>
+### 📊 My Stats :
 
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahd66&theme=tokyonight)](https://git.io/streak-stats)
-    
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahd66&theme=tokyonight)](https://git.io/streak-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
