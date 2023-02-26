@@ -1,11 +1,11 @@
-<div id="header" align="center">
+<div align="center">
     <h1 align="center">Hi there, i'm Jesús 👋</h1>
-    <h3 align="center">Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
+    <h3>Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
 </div>
 
 ---
 
-<div align="center">
+<div>
     ## 📫 How to reach me 
     - Email: jahdev66@gmail.com
     - Website: ...soon
@@ -14,7 +14,7 @@
 
 ---
 
-<div align="center">
+<div>
     ## 🚀My projects 
 
     Here are some of my best projects:
@@ -40,10 +40,11 @@
 
 ---
 
-### 📊 My Stats :
+<h3 align="center"> 📊 My Stats </h3>
+<div align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahd66&theme=tokyonight)](https://git.io/streak-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jahd66&theme=tokyonight)](https://git.io/streak-stats)
+    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahd66&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahd66&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
