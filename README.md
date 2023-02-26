@@ -1,7 +1,8 @@
 <div align="center">
     <h1 align="center">Hi there, i'm Jesús 👋</h1>
-    <h3>Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
 </div>
+
+<h3>Javascript | Frontend Developer, I have created several projects using JavaScript, and also implemented technologies such as Next.js, React,   Node.js, Express, Wordpress and Nest. I am also proficient using SQL, and Linux. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, communication, problem-solving, and detail-oriented are skills that allows me to do an excellent job.</h3>
 
 ---
 
@@ -22,17 +23,16 @@
 
 ---
 
-<div align="left">
-    <h3>⚙ My stack technologies</h3>
-    <div>
+
+## ⚙ My stack technologies
+<div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-     </div>
 </div>
-
+     
 ---
 
 ## 📊 My Stats :
