@@ -2,7 +2,7 @@
     <h1 align="center">Hi there, i'm Jesús 👋</h1>
 </div>
 <div align="justify"
-    <h3>React Developer. experienced working with MERN stack. I am also proficient using SQL and noSQL, Linux pretty soon. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, adaptability, communication skills, and problem-solving are skills that allows me to do an excellent job.</h3>
+    <h3>React Developer. experienced working with MERN stack. I'm also proficient using SQL and noSQL, Linux pretty soon. My goal is grow as a professional, reach a high seniority level and create great applications. Leadership, team player, adaptability, communication skills, and problem-solving are skills that allows me to do an excellent job.</h3>
 </div>
 
 ---
